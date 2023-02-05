@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    font-family: 'Manrope', 'sans-serif';
+    font-weight: 100;
+    word-wrap: break-word;
+}
+
+.subbody {
+    margin: 0 5% 5% 5%;
+}
+
+.subbody2 {
+    margin: 5%;
+}
+
+.Nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.Nav-ele {
+    padding: 0 5%;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 4rem;
+}
+
+.logo {
+    height: 35%;
+    width: 35%;
+}
+
+.logo-text {
+    color: #4b91f1;
+}
+
+.WalletInfo {
+    width: 500px;
+}
+
+.transactions {
+    border: 1px solid #fff;
+    padding: 2%;
+}
+
+.addr {
+    color: #ef5f5f;
+}
+
+.ConductTransaction {
+    margin: 10%;
+}
+.TransactionPool{
+    margin:4%;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
+a:active {
+    text-decoration: none;
+}
